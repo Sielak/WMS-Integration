@@ -1,0 +1,30 @@
+{
+    "db_username": "check_in_keePass",
+    "db_password": "check_in_keePass",
+    "database_name": "ErpTst005",
+    "database_server": "EW1-SQL-716",
+    "1210": {
+        "login": "check_in_keePass",
+        "pass": "check_in_keePass",
+        "GoodsOwnerCode": "HL TEST",
+        "GoodsOwnerId": "72",
+        "soap_api_url": "https://hldisplaynordic.ongoingsystems.se/HLDisplayNordic/service.asmx",
+        "soap_api_url_desc": "https://hldisplaynordic.ongoingsystems.se/HLDisplayNordic/service.asmx?wsdl"
+    },
+    "1810": {
+        "login": "check_in_keePass",
+        "pass": "check_in_keePass",
+        "GoodsOwnerCode": "HL TEST",
+        "GoodsOwnerId": "72",
+        "soap_api_url": "https://api.ongoingsystems.se/HLDisplayCentral/service.asmx",
+        "soap_api_url_desc": "https://api.ongoingsystems.se/HLDisplayCentral/service.asmx?wsdl"
+    },
+    "1600": {
+        "login": "check_in_keePass",
+        "pass": "check_in_keePass",
+        "GoodsOwnerCode": "HL TEST",
+        "GoodsOwnerId": "72",
+        "soap_api_url": "https://api.ongoingsystems.se/HLDisplayWest/service.asmx",
+        "soap_api_url_desc": "https://api.ongoingsystems.se/HLDisplayWest/service.asmx?wsdl"
+    }
+}
