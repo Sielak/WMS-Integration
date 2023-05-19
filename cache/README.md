@@ -1,0 +1,1 @@
+This directory, even if empty, must be in the git repository because some libraries used in this project have problems creating this folder correctly.
